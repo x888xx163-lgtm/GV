@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360"><stop stop-color="#08131F"/><stop offset="1" stop-color="#152C43"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6D78B"/><stop offset="1" stop-color="#B97921"/></linearGradient></defs>
+<rect width="1200" height="360" rx="30" fill="url(#bg)"/>
+<g opacity=".16" stroke="#D8EAF8" stroke-width="2"><path d="M42 310L340 98L620 300L928 72L1160 250"/><path d="M86 74h238v132H86z"/><path d="M404 56h190v190H404z"/><circle cx="800" cy="172" r="96"/><circle cx="800" cy="172" r="42"/><path d="M946 88h174v174H946z"/><path d="M1008 88v174M946 150h174"/></g>
+<g><circle cx="142" cy="176" r="48" fill="url(#gold)"/><path d="M121 176h42M142 155v42" stroke="#08131F" stroke-width="10" stroke-linecap="round"/></g>
+<text x="230" y="146" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800" fill="#fff">Качество подтверждаем процессом</text><text x="230" y="194" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#C7D8E7">Покрытия по чертежам, техническим требованиям и согласованным параметрам партии</text>
+<rect x="230" y="226" width="196" height="52" rx="26" fill="url(#gold)"/><text x="260" y="259" font-family="Arial" font-size="16" font-weight="800" fill="#08131F">Скачать заявку</text>
+</svg>
